@@ -1,0 +1,14 @@
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-cors
+python-dotenv
+celery
+redis
+Flask-mail
+Flask-Caching
+pandas
+weasyprint
+jinja2
+datetime
+flask_bcrypt
